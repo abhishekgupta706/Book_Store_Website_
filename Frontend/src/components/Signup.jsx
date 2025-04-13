@@ -21,7 +21,7 @@ function Signup() {
       password: data.password,
     };
     console.log(data);
-    await axios.post("http://localhost:4001/api/users/signup", userInfo)
+    await axios.post("https://book-ih42.onrender.com/api/users/signup", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
