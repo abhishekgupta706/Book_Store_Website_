@@ -30,7 +30,7 @@
     "id":4,
     "title":"Accounting",
     "name": "Fundamental of Accounting",
-    "price":25,
+    "price":30,
     "pdf":"FOA.pdf",
     "category":"Paid",
     "image":"Budget.jpg"
