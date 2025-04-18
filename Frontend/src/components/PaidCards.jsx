@@ -124,7 +124,7 @@ const PaidCard = ({ item }) => {
         order_id: order.id,
         handler: async (response) => {
           try {
-            // Payment successful, update state
+            // Payment successful, update the state
             setIsPaid(true);
             toast.success('Payment is done, you can download the book now!');
           } catch (error) {

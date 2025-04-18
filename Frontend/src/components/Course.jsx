@@ -83,7 +83,7 @@ function Course() {
           </h1>
           <p className="mt-12">
             Explore an amazing collection of courses that cater to every passion and profession. 
-            From beginner-friendly guides to advanced resources, we’ve got everything you need to 
+            From beginner-friendly guides to advanced resources, we have got everything you need to 
             unlock your potential and achieve your dreams.
           </p>
           <Link to="/">

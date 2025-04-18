@@ -1,0 +1,123 @@
+[
+{
+    "id":1,
+    "title":"Financial Book",
+    "name": "Budget Plan",
+    "price":0,
+    "pdf":"Budget.pdf",
+    "category":"Free",
+    "image":"Budget.jpg"
+},
+{
+    "id":2,
+    "name":"Forest Book",
+    "title": "The Hidden Life Of Trees",
+    "price":0,
+    "pdf":"Tree.pdf",
+    "category":"Free",
+    "image":"forest.avif"
+},
+{
+    "id":3,
+    "title":"Professional Book",
+    "name":"Reputation Management",
+    "price":0,
+    "pdf":"corporate.pdf",
+    "category":"Free",
+    "image":"corp.avif"
+},
+{
+    "id":4,
+    "title":"Accounting",
+    "name": "Fundamental of Accounting",
+    "price":30,
+    "pdf":"FOA.pdf",
+    "category":"Paid",
+    "image":"Budget.jpg"
+},
+{
+    "id":5,
+    "title":"Story Book",
+    "name": "jack kerouac on the Road",
+    "price":20,
+    "pdf":"road.pdf",
+    "category":"Paid",
+    "image":"travel.avif"
+},
+{
+    "id":6,
+    "title":"Inspirational Book",
+    "name": "Rich Dad Poor Dad",
+    "price":50,
+    "pdf":"RichD.pdf",
+    "category":"Paid",
+    "image":"Rich.png"
+},
+{
+    "id":7,
+    "title":"Professional Book",
+    "name": "The Lean Startup",
+    "price":25,
+    "pdf":"The_Lean_Startup.pdf",
+    "category":"Paid",
+    "image":"corp.avif"
+},
+{
+    "id":8,
+    "name":"Tressure Island",
+    "title": "Story Book",
+    "price":28,
+    "pdf":"adventure.pdf",
+    "category":"Paid",
+    "image":"forest.avif"
+},
+{
+    "id":9,
+    "name":"Campus Recruitment",
+    "title": "Campus Placement",
+    "price":25,
+    "pdf":"CampusRecruitmentBook.pdf",
+    "category":"Paid",
+    "image":"Campus.jpg"
+},
+{
+    "id":10,
+    "name":"Career Handbook",
+    "title": "Build your Career",
+    "price":25,
+    "pdf":"Career.pdf",
+    "category":"Paid",
+    "image":"ca.avif"
+},
+{
+    "id":11,
+    "name":"Communication Skills",
+    "title": "Improve Communication Skills",
+    "price":0,
+    "pdf":"CommunicationSkills.pdf",
+    "category":"Free",
+    "image":"Comu.webp"
+},
+{
+    "id":12,
+    "name":"BankReasoning",
+    "title": "Reasoning Book",
+    "price":0,
+    "pdf":"BankReasoning.pdf",
+    "category":"Free",
+    "image":"Re.jpeg"
+},
+{
+    "id":13,
+    "name":"The Lost Hero",
+    "title": "Story of SubashChandra Bose",
+    "price":25,
+    "pdf":"SubashChandraBose.pdf",
+    "category":"Paid",
+    "image":"Chandra.jpg"
+}
+
+
+]
+
+
